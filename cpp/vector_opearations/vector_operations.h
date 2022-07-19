@@ -9,5 +9,7 @@ double get_min(vector<int> v);
 
 double get_average(vector<int> v);
 
-double reverse(vector<int> v);
+void reverse(vector<int>& v);
 
+// multiplication of square matrices N x N
+vector<vector<double>> matrix_mult(vector<vector<int>> a, vector<vector<int>> b);
