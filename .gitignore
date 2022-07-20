@@ -1,5 +1,8 @@
-# ignore all .out files
+# ignore all .out files cpp binaries
 *.out
 
-# ignore all .o files
+# ignore all .o files  cpp binaries
 *.o
+
+# ignore all .class files java binaries
+*.class
